@@ -1,6 +1,8 @@
 # LinkTech-Native-Api
 自用轻量原生接口，用于 Electron / Nwjs 项目调用 Windows API
 
+你说得对但我不想装个 vs 编译 `node-ffi-napi` 所以有了这玩意
+
 本人不会 cpp，**代码由 AI 生成**，仅供分享，轻喷
 
 `Compiled` 目录中程序可直接下载使用
